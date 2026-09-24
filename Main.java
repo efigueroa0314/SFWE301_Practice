@@ -5,7 +5,7 @@ public class Main
 		System.out.println("Hello Github");
 
 		//print your name
-		System.out.println("Erick Figueroa")
+		System.out.println("Erick Figueroa");
 
 		//make any other edits to this file you want, get creative!
 	}
